@@ -6,10 +6,8 @@ This project aims to do real-time object detection through a laptop camera or we
 Here, we will go through the steps required for setting up the project and some explanation about the code.
 
 **Hi!**
-
-![alt text](https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV/blob/master/real_time_output_gif/real_time_output.gif)
-
-### How to run this code?
+![WhatsApp Image 2024-05-06 at 17 49 43_fde4c12b](https://github.com/ap7572/object-distance-detection-system/assets/104268094/8d270df5-e7bf-4a37-ac6d-d04d5ff6fdcf)
+to run this code?
 
 **Step 1:** Create a directory in your local machine and cd into it
 
